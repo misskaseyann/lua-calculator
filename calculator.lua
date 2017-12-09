@@ -16,7 +16,7 @@ print("Enter 'Q' to quit.")
 print("\n")
 
 -----------------------------------------------------------------
--- Calculate function that recursively calculates values until
+-- Calculate function which recursively calculates values until
 -- there is an error or the user types the '=' operator.
 --
 -- @num integer or floating point value.
